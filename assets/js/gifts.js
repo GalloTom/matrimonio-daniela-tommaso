@@ -11,7 +11,7 @@ window.WEDDING_GIFTS = [
   {
     id: "alloggio",
     title: "Hotel particulier, suites e chambres d'hôtes",
-    summary: "Io non vado da nessuna parte senza il bagno in camera (Dani)",
+    summary: "<Io non vado da nessuna parte senza il bagno in camera> Cit. Dani.",
     description:
       "Un posto accogliente dove fermarci, riposare e prepararci alla tappa successiva del nostro viaggio. Sperando che Tommi non russi.",
     image: "assets/images/bed.png",
@@ -29,7 +29,7 @@ window.WEDDING_GIFTS = [
   {
     id: "cena",
     title: "Una cena romantica",
-    summary: "Prendeteci per la gola",
+    summary: "Prendeteci per la gola.",
     description:
       "Una cena romantica lungo il percorso: un tavolo per due, qualcosa di buono da assaggiare e il tempo per goderci il viaggio insieme. Ai fiori ci pensiamo noi.",
     image: "assets/images/meal.png",
@@ -38,7 +38,7 @@ window.WEDDING_GIFTS = [
   {
     id: "viaggio",
     title: "Benzina, caselli e multe",
-    summary: "La benzina costa... sempre di più",
+    summary: "La benzina costa... sempre di più.",
     description:
       "Un piccolo aiuto per superare le Alpi e puntare verso l'orizzonte sperando di evitare le ZTL.",
     image: "assets/images/fuel-nozzle.png",
@@ -47,7 +47,7 @@ window.WEDDING_GIFTS = [
   {
     id: "cultura",
     title: "Musei, menhir e parchi naturali",
-    summary: "Attività da fare durante la digestione",
+    summary: "Attività da fare durante la digestione.",
     description:
       "Diventa lo sponsor ufficiale della serrata pianificazione Dani™ (Nessun Tommi verrà obbligato a vedere dipinti impressionisti contro la sua volontà)",
     image: "assets/images/paintbrush.png",
