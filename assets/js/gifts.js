@@ -11,7 +11,7 @@ window.WEDDING_GIFTS = [
   {
     id: "alloggio",
     title: "Hotel particulier, suites e chambres d'hôtes",
-    summary: "<Io non vado da nessuna parte senza il bagno in camera> Cit. Dani.",
+    summary: "Io non vado da nessuna parte senza il bagno in camera... Cit. Dani.",
     description:
       "Un posto accogliente dove fermarci, riposare e prepararci alla tappa successiva del nostro viaggio. Sperando che Tommi non russi.",
     image: "assets/images/bed.png",
