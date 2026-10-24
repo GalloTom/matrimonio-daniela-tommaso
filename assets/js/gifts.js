@@ -40,7 +40,7 @@ window.WEDDING_GIFTS = [
     title: "Benzina, caselli e multe",
     summary: "La benzina costa... sempre di più.",
     description:
-      "Un piccolo aiuto per superare le Alpi e puntare verso l'orizzonte sperando di evitare le ZTL.",
+      "Un piccolo aiuto per superare le Alpi e puntare verso l'orizzonte (sperando di evitare le ZTL).",
     image: "assets/images/fuel-nozzle.png",
     alt: "Illustrazione di una pistola per la benzina",
   },
